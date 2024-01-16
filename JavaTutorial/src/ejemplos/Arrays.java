@@ -186,7 +186,8 @@ public class Arrays {
 	    for (int i = 0;i < Numero; i++) {
 	    	System.out.println(a1_enteros7[i]+" ");
 	    }   
-	    
+		
+	    //Comentario 3
 	    
 	} // main
 } // class 
